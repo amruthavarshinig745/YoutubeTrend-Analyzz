@@ -9,9 +9,9 @@ This project analyzes YouTube trending video data to uncover insights about cont
 
 ## 📁 Project Structure
 
- - youtube_data_clean
+ - youtube_data_clean --> cleaned_youtube_trending.csv
  - youtube_eda
- - youtube_sentiment
+ - youtube_sentiment --> youtube_with_sentiment.csv
  - youtube_sql
  - youtube_trendzz(all code in this file)
 
