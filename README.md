@@ -7,6 +7,14 @@ This project analyzes YouTube trending video data to uncover insights about cont
 - **Dataset Source**: [Kaggle – YouTube Trending Videos](https://www.kaggle.com/)
 - **Goal**: Understand what makes a video trend based on views, likes, comments, category, sentiment, and more.
 
+## 📁 Project Structure
+
+ - youtube_data_clean
+ - youtube_eda
+ - youtube_sentiment
+ - youtube_sql
+ - youtube_trendzz(all code in this file)
+
 
 ## 🛠 Tools Used
 
